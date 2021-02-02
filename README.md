@@ -15,7 +15,7 @@ Deber de la materia de Tópicos Especiales 2020B de la Escuela Politécnica Naci
 Calculadora desarrollada con un IDE Android Studio , la aplicacion APK ya instalada en un dispositvo permitira realizar las funciones basicas de matematicas como SUMA,
 RESTA, MULTIPLICACION, y DIVISION con numeros enteros y decimales
 
-:calculator: :person:
+
 
 ## Versiones:
 
