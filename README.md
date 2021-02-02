@@ -3,9 +3,8 @@
 # Deberes_B2_Topicos_Especiales
 Deber de la materia de Tópicos Especiales 2020B de la Escuela Politécnica Nacional. Como finalidad crear una aplicacion movil con android studio
 
-# Calculadora_AndroidStudio :computer:
+# Calculadora_AndroidStudio :computer: :iphone:
 
-## Calculadora con Android Studio :iphone:
 
 ## Alumnos : 
  
