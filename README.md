@@ -26,12 +26,6 @@ RESTA, MULTIPLICACION, y DIVISION con numeros enteros y decimales
 
 * *Es Necesario tener versión de Android 8 o más actual*
 
-## Descarga El APK
-
-Descarga `APK` clic en el siguiente enlace [Calculadora_Android](https://github.com/mauryrodriguez/APK_Calculadora_Android_Studio). :white_check_mark:
-*una vez descargada la app e instalada en tu dispositivo android*
-recomendamos elegir unos de los siguientes usuarios
-
 
 ## Referencias Visuales
 
