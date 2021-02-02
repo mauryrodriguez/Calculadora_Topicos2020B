@@ -26,6 +26,9 @@ RESTA, MULTIPLICACION, y DIVISION con numeros enteros y decimales
 
 * *Es Necesario tener versión de Android 8 o más actual*
 
+## Descargar APK
+
+Para descargar la `APK` clic en el siguiente enlace https://github.com/mauryrodriguez/Calculadora_Topicos2020B/raw/master/app-debug.apk. :white_check_mark:
 
 ## Referencias Visuales
 
