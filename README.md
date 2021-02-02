@@ -28,7 +28,7 @@ RESTA, MULTIPLICACION, y DIVISION con numeros enteros y decimales
 
 ## Descargar APK
 
-Para descargar la `APK` clic en el siguiente enlace https://github.com/mauryrodriguez/Calculadora_Topicos2020B/raw/master/app-debug.apk. :white_check_mark:
+Para descargar la `APK` clic en el siguiente enlace [Calculadora de Josue y Mauricio](https://github.com/mauryrodriguez/Calculadora_Topicos2020B/raw/master/app-debug.apk). :white_check_mark:
 
 ## Referencias Visuales
 
