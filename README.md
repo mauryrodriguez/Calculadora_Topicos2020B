@@ -31,3 +31,4 @@ RESTA, MULTIPLICACION, y DIVISION con numeros enteros y decimales
 
 Mira el video en `Youtube` clic en el siguiente enlace [youtube](https://www.youtube.com/watch?v=shUMeK4cB58&feature=youtu.be). :white_check_mark:
 Mira el video2 en `Youtube` clic en el siguiente enlace [youtube](https://www.youtube.com/watch?v=EOG-68B1e7I&feature=youtu.be). :white_check_mark:
+
